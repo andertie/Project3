@@ -1,0 +1,20 @@
+package Project3;
+
+public class Tent extends Site {
+	
+	/** Represents the number of tenters on this site */
+	private int numOfTenters;
+
+	public int getNumOfTenters() {
+		return numOfTenters;
+	}
+
+	public void setNumOfTenters(int numOfTenters) {
+		this.numOfTenters = numOfTenters;
+	}
+
+	   // add constructor
+	 
+
+
+}
